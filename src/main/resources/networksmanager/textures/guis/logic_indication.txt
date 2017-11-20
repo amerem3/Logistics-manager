@@ -1,0 +1,7 @@
+greay: object
+red: boolean
+green: int
+blue: string
+cyan: long
+pink: float
+yellow: double
