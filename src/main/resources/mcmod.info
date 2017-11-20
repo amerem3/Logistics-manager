@@ -1,0 +1,16 @@
+[
+{
+  "modid": "networksmanager",
+  "name": "Networks Manager",
+  "description": "This mod adds management in-game",
+  "version": "1.0",
+  "mcversion": "1.7.10",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Cyrilgenin, Amerem"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
